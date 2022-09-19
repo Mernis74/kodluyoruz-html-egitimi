@@ -1,0 +1,48 @@
+/* CSS Documnet */
+
+.google-search {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2px;
+}
+.google-content {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.google-container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.google-container form {
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    margin-top: 2px;
+}
+.content-left {
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 37%;
+    padding-top: 12px;
+    margin-right: 2px;
+}
+.content-center {
+    background-color: #70CCC2;
+    text-align: center;
+    width: 26%;
+    margin-right: 2px;
+}
+.content-right {
+    background-color: #62B3AA;
+    text-align: center;
+    width: 37%;
+}
+.google-footer {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
